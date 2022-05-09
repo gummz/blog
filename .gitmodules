@@ -1,0 +1,4 @@
+[submodule "airblog/public"]
+	path = airblog/public
+	url = https://github.com/gummz/gummz.github.io.git
+	branch = main
