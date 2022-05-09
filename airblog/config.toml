@@ -1,0 +1,4 @@
+baseURL = 'http://gummz.github.io'
+languageCode = 'en-us'
+title = 'Airblog'
+theme='hugo-book'
